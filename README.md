@@ -1,2 +1,2 @@
-# emgMapper
-EMG based technology mapper
+# DaVinciMapper
+Da Vinci Mapper
